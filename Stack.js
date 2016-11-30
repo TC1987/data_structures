@@ -1,5 +1,6 @@
-// Stacks are great for traversing trees using the DFS method. Following a last in, first out (LIFO) architecture, a stack is a critical component of Javascript's runtime
-// and is what allows a JS application to revert back to the previous execution context. 
+// Stacks are great for traversing trees using the DFS method. Following a last in, first out (LIFO) architecture, a stack
+// is a critical component of Javascript's runtime and is what allows a JS application to revert back to the previous
+// execution context. 
 
 // Using an array.
 
